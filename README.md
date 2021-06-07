@@ -1,1 +1,1 @@
-# QGEN_TAPAS_GPT
+[![Saichandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saichandrapandraju)](https://github.com/anuraghazra/github-readme-stats)
